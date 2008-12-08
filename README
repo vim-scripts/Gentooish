@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2474
+
+This is a dark color scheme vaguely inspired by the colors of Gentoo Linux, i.e. lots of purples and greens.  But lots of other colors too.  The colors are saturated and different enough to tell things apart at a glance, without being so bright that your eyes bleed.
+
+The colors look OK in a GUI and 256 color terminal.  (Terminal version was dumped via  vimscript #2390, then cleaned up a bit.)
+
+Screenshot: http://briancarper.net/vim/gentooish.png
